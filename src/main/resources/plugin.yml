@@ -1,0 +1,12 @@
+main: cn.wode490390.nukkit.energy.Energy
+name: "Energy"
+author: "wode490390"
+description: "Energy plugin for Nukkit"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: POSTWORLD
+permissions:
+  energy.ignore:
+    description: "Allows player to ignore energy"
+    default: op

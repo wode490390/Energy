@@ -1,0 +1,4 @@
+#tick
+restore-interval: 40
+restore-energy: 1
+consumption-per-attack: 2
